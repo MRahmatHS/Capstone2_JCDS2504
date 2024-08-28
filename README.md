@@ -15,25 +15,25 @@ This project is designed to analyze the sales trends, customer segmentation, and
 Dataset ini berisi data transaksi dari sebuah perusahaan SaaS fiktif yang menjual perangkat lunak penjualan dan pemasaran kepada perusahaan lain. Setiap baris dalam dataset mewakili satu produk dalam suatu transaksi. Kolom-kolom dalam dataset ini mencakup berbagai informasi terkait transaksi tersebut.
 
 No.	Nama Kolom	Deskripsi Kolom
-1	Row ID	Identifikasi unik untuk setiap transaksi.
-2	Order ID	Identifikasi unik untuk setiap pesanan.
-3	Order Date	Tanggal ketika pesanan ditempatkan.
-4	Date Key	Representasi numerik dari tanggal pesanan (YYYYMMDD).
-5	Contact Name	Nama orang yang menempatkan pesanan.
-6	Country	Negara tempat pesanan ditempatkan.
-7	City	Kota tempat pesanan ditempatkan.
-8	Region	Wilayah tempat pesanan ditempatkan.
-9	Subregion	Subwilayah tempat pesanan ditempatkan.
-10	Customer	Nama perusahaan yang menempatkan pesanan.
-11	Customer ID	Identifikasi unik untuk setiap pelanggan.
-12	Industry	Industri yang dimiliki oleh pelanggan.
-13	Segment	Segmen pelanggan (SMB, Strategis, Enterprise, dll.).
-14	Product	Produk yang dipesan.
-15	License	Kunci lisensi untuk produk.
-16	Sales	Jumlah penjualan total untuk transaksi.
-17	Quantity	Jumlah total barang dalam transaksi.
-18	Discount	Diskon yang diterapkan pada transaksi.
-19	Profit	Keuntungan dari transaksi.
+1. 	Row ID	Identifikasi unik untuk setiap transaksi.
+2.	Order ID	Identifikasi unik untuk setiap pesanan.
+3.	Order Date	Tanggal ketika pesanan ditempatkan.
+4.	Date Key	Representasi numerik dari tanggal pesanan (YYYYMMDD).
+5.	Contact Name	Nama orang yang menempatkan pesanan.
+6.	Country	Negara tempat pesanan ditempatkan.
+7.	City	Kota tempat pesanan ditempatkan.
+8. 	Region	Wilayah tempat pesanan ditempatkan.
+9.	Subregion	Subwilayah tempat pesanan ditempatkan.
+10.	Customer	Nama perusahaan yang menempatkan pesanan.
+11.	Customer ID	Identifikasi unik untuk setiap pelanggan.
+12.	Industry	Industri yang dimiliki oleh pelanggan.
+13.	Segment	Segmen pelanggan (SMB, Strategis, Enterprise, dll.).
+14.	Product	Produk yang dipesan.
+15.	License	Kunci lisensi untuk produk.
+16.	Sales	Jumlah penjualan total untuk transaksi.
+17.	Quantity	Jumlah total barang dalam transaksi.
+18.	Discount	Diskon yang diterapkan pada transaksi.
+19.	Profit	Keuntungan dari transaksi.
 
 #### Data Overview
 The dataset includes:
