@@ -1,4 +1,4 @@
-# Capstone2_JCDS2504
+# Capstone_2
 Amazon Web Service SaaS Sales Data Analysis Project Capstone II M.Rahmat JCDS2504
 
 # Amazon Web Service SaaS Sales Data Analysis
